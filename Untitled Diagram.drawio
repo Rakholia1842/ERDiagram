@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-08T14:28:41.767Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="jCIDFMF9oMgi-BBZYLRR" version="12.4.9" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2020-01-08T14:31:03.962Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="jkg6XZScdyprhSEMRvBu" version="12.4.9" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2031" dy="2313" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -245,7 +245,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-O00j1tQZ1MpL5goMb2f" name="Page-2">
-    <mxGraphModel dx="2058" dy="915" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100" pageHeight="300" background="none" math="0" shadow="1">
+    <mxGraphModel dx="2386" dy="1076" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100" pageHeight="300" background="none" math="0" shadow="1">
       <root>
         <mxCell id="Ld5y9Fo_SOwqp39tFzAJ-0"/>
         <mxCell id="Ld5y9Fo_SOwqp39tFzAJ-1" parent="Ld5y9Fo_SOwqp39tFzAJ-0"/>
@@ -352,11 +352,11 @@
             <mxPoint x="939" y="5" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JM0mI9Wo3sELhNkSNja4-30" value="Ngage Aurhtoring" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=40;fontColor=#FCFCFC;fontStyle=1;horizontal=1;shadow=0;labelBorderColor=#B5B5B5;labelBackgroundColor=none;" vertex="1" parent="Ld5y9Fo_SOwqp39tFzAJ-1">
-          <mxGeometry x="250" y="28" width="350" height="52" as="geometry"/>
+        <mxCell id="JM0mI9Wo3sELhNkSNja4-30" value="Ngage Aurhtoring" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=40;fontColor=#FFFFFF;fontStyle=1;horizontal=1;shadow=0;labelBorderColor=none;labelBackgroundColor=none;spacingTop=0;html=1;" vertex="1" parent="Ld5y9Fo_SOwqp39tFzAJ-1">
+          <mxGeometry x="250" y="30" width="350" height="52" as="geometry"/>
         </mxCell>
-        <mxCell id="JM0mI9Wo3sELhNkSNja4-31" value="Ngage Application" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=40;fontColor=#FCFCFC;fontStyle=1;horizontal=1;labelBackgroundColor=none;labelBorderColor=#B5B5B5;" vertex="1" parent="Ld5y9Fo_SOwqp39tFzAJ-1">
-          <mxGeometry x="1122" y="28" width="361" height="52" as="geometry"/>
+        <mxCell id="JM0mI9Wo3sELhNkSNja4-31" value="Ngage Application" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=40;fontColor=#FFFFFF;fontStyle=1;horizontal=1;labelBackgroundColor=none;labelBorderColor=none;spacingTop=0;html=1;" vertex="1" parent="Ld5y9Fo_SOwqp39tFzAJ-1">
+          <mxGeometry x="1122" y="30" width="361" height="52" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
