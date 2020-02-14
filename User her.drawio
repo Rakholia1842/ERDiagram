@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-14T06:31:28.651Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0" etag="bYF0cjfm8FLK7rjq0hou" version="12.7.0" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2020-02-14T06:33:10.528Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0" etag="wiTd-jn64Q1JqMpDBd0Q" version="12.7.0" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="1948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -534,7 +534,7 @@
             <mxPoint x="-192" y="496.5" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YFI8WPLBsElpcgAKOfzH-9" value="User Type 1" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=35;" vertex="1" parent="c2JASZ9gz_57_YNBIvmX-1">
+        <mxCell id="YFI8WPLBsElpcgAKOfzH-9" value="User layout Type 1" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=35;" vertex="1" parent="c2JASZ9gz_57_YNBIvmX-1">
           <mxGeometry x="-156.07" y="588.2499999999999" width="400" height="99" as="geometry"/>
         </mxCell>
         <mxCell id="YFI8WPLBsElpcgAKOfzH-10" value="&lt;font style=&quot;font-size: 30px&quot;&gt;&lt;span&gt;Reporting Module&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontSize=35;fontColor=#330066;fontStyle=1;labelBorderColor=none;" vertex="1" parent="c2JASZ9gz_57_YNBIvmX-1">
@@ -549,7 +549,7 @@
             <mxPoint x="-193.5" y="796.75" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YFI8WPLBsElpcgAKOfzH-14" value="User Type 2" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=35;" vertex="1" parent="c2JASZ9gz_57_YNBIvmX-1">
+        <mxCell id="YFI8WPLBsElpcgAKOfzH-14" value="User Layout Type 2" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=35;" vertex="1" parent="c2JASZ9gz_57_YNBIvmX-1">
           <mxGeometry x="-149.57" y="929.2499999999999" width="400" height="99" as="geometry"/>
         </mxCell>
         <mxCell id="YFI8WPLBsElpcgAKOfzH-15" value="&lt;font style=&quot;font-size: 30px&quot;&gt;&lt;span&gt;Reporting Module&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontSize=35;fontColor=#330066;fontStyle=1;labelBorderColor=none;" vertex="1" parent="c2JASZ9gz_57_YNBIvmX-1">
