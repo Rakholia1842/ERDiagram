@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-14T06:33:41.776Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0" etag="mVqL7rO943ZngOGXJdPD" version="12.7.0" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2020-02-14T06:36:11.379Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0" etag="YY5CntMTl_le82Gtpqyp" version="12.7.0" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="1948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -506,15 +506,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JXleY3BrT34G4SnGfwCn" name="Page-4">
-    <mxGraphModel dx="4950" dy="2567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="30" pageHeight="10" math="0" shadow="0">
+    <mxGraphModel dx="4940" dy="2237" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="40" pageHeight="30" math="0" shadow="0">
       <root>
         <mxCell id="c2JASZ9gz_57_YNBIvmX-0"/>
         <mxCell id="c2JASZ9gz_57_YNBIvmX-1" parent="c2JASZ9gz_57_YNBIvmX-0"/>
         <mxCell id="c2JASZ9gz_57_YNBIvmX-5" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;strokeColor=#666666;fillColor=#8c7aa9;fontSize=18;fontColor=#FCFCFC;rotation=90;" vertex="1" parent="c2JASZ9gz_57_YNBIvmX-1">
           <mxGeometry x="-450" y="383" width="977" height="453" as="geometry"/>
-        </mxCell>
-        <mxCell id="c2JASZ9gz_57_YNBIvmX-7" value="Report Management" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=40;fontColor=#FFFFFF;fontStyle=1;horizontal=1;shadow=0;labelBorderColor=none;labelBackgroundColor=none;spacingTop=0;html=1;" vertex="1" parent="c2JASZ9gz_57_YNBIvmX-1">
-          <mxGeometry x="650" y="31.5" width="400" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="c2JASZ9gz_57_YNBIvmX-34" value="Super System&#xa;Adminstrator" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=35;" vertex="1" parent="c2JASZ9gz_57_YNBIvmX-1">
           <mxGeometry x="-151.57" y="235.9999999999999" width="400" height="99" as="geometry"/>
