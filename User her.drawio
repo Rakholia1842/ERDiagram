@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-27T12:24:46.460Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" etag="jCn404tYB_YY8Y8Ot9rL" version="12.7.8" type="github" pages="6">
+<mxfile host="www.draw.io" modified="2020-02-27T12:25:24.719Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" etag="ZX18drxHrigX1Lby1ZAu" version="12.7.8" type="github" pages="6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="3555" dy="3047" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -860,10 +860,10 @@
         <mxCell id="FnQ43rn_pmtVP3oq0j7D-79" value="Modify Design, Theme &amp; Layout" style="rounded=1;fillColor=#59C3C3;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#333333;fontSize=22;whiteSpace=wrap;" vertex="1" parent="FnQ43rn_pmtVP3oq0j7D-1">
           <mxGeometry x="865.7500000000007" y="908" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FnQ43rn_pmtVP3oq0j7D-80" value="Go to widget Section" style="rounded=1;fillColor=#59C3C3;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#333333;fontSize=22;" vertex="1" parent="FnQ43rn_pmtVP3oq0j7D-1">
+        <mxCell id="FnQ43rn_pmtVP3oq0j7D-80" value="Go to Configure DashboardSection" style="rounded=1;fillColor=#59C3C3;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#333333;fontSize=22;whiteSpace=wrap;" vertex="1" parent="FnQ43rn_pmtVP3oq0j7D-1">
           <mxGeometry x="1437.7500000000007" y="753" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FnQ43rn_pmtVP3oq0j7D-97" value="Create &amp; Add new Report" style="rounded=1;fillColor=#59C3C3;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#333333;fontSize=22;whiteSpace=wrap;" vertex="1" parent="FnQ43rn_pmtVP3oq0j7D-1">
+        <mxCell id="FnQ43rn_pmtVP3oq0j7D-97" value="Create/Add new Report" style="rounded=1;fillColor=#59C3C3;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#333333;fontSize=22;whiteSpace=wrap;" vertex="1" parent="FnQ43rn_pmtVP3oq0j7D-1">
           <mxGeometry x="1161.2500000000007" y="908" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FnQ43rn_pmtVP3oq0j7D-98" value="Add Previously Created Report " style="rounded=1;fillColor=#59C3C3;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#333333;fontSize=22;whiteSpace=wrap;" vertex="1" parent="FnQ43rn_pmtVP3oq0j7D-1">
