@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-06T10:03:08.217Z" agent="5.0 (Windows)" etag="8fUS2liaURYbzdYvLRu8" version="13.9.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-11-06T10:28:50.003Z" agent="5.0 (Windows)" etag="4C_TyUr1tzsEs0s7irMX" version="13.9.2" type="github" pages="2">
   <diagram id="-O00j1tQZ1MpL5goMb2f" name="Metro Teleproducts Pvt. Ltd. Hierarchy">
-    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" page="1" fold="1" pageScale="1" pageWidth="100" pageHeight="200" background="none" math="0" shadow="1">
+    <mxGraphModel dx="5277" dy="1730" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100" pageHeight="200" background="none" math="0" shadow="1">
       <root>
         <mxCell id="Ld5y9Fo_SOwqp39tFzAJ-0" />
         <mxCell id="Ld5y9Fo_SOwqp39tFzAJ-1" parent="Ld5y9Fo_SOwqp39tFzAJ-0" />
@@ -962,8 +962,8 @@
         <mxCell id="7phoqUuD6ylPx7bReSVy-103" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;strokeColor=#666666;fillColor=#004C99;fontSize=18;fontColor=#FCFCFC;" vertex="1" parent="7phoqUuD6ylPx7bReSVy-102">
           <mxGeometry width="2299.9999999999995" height="113" as="geometry" />
         </mxCell>
-        <mxCell id="7phoqUuD6ylPx7bReSVy-104" value="&lt;div&gt;Metro Teleproducts Pvt. Ltd. Hierarchy&lt;/div&gt;" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=40;fontColor=#FFFFFF;fontStyle=1;horizontal=1;shadow=0;labelBorderColor=none;labelBackgroundColor=none;spacingTop=0;html=1;" vertex="1" parent="7phoqUuD6ylPx7bReSVy-1">
-          <mxGeometry x="19.999999999999943" y="82.5" width="750" height="50" as="geometry" />
+        <mxCell id="7phoqUuD6ylPx7bReSVy-104" value="&lt;div&gt;Belle Pvt. Ltd. Hierarchy&lt;/div&gt;" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=40;fontColor=#FFFFFF;fontStyle=1;horizontal=1;shadow=0;labelBorderColor=none;labelBackgroundColor=none;spacingTop=0;html=1;" vertex="1" parent="7phoqUuD6ylPx7bReSVy-1">
+          <mxGeometry x="154.99999999999994" y="82.5" width="480" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
