@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-06T08:50:34.972Z" agent="5.0 (Windows)" etag="NgcHuID4ajJwrBsJh_-y" version="13.9.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2020-11-06T08:54:31.932Z" agent="5.0 (Windows)" etag="UKAOUmQ-cgbVBfjx9SRM" version="13.9.2" type="github" pages="8">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1447" dy="1934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -786,7 +786,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Belle Pvt. Ltd. Hierarchy" id="v0pmprgsQ0tk93WfL4Hl">
-    <mxGraphModel dx="1913" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100" pageHeight="200" background="none" math="0" shadow="1">
+    <mxGraphModel dx="4952" dy="2076" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100" pageHeight="200" background="none" math="0" shadow="1">
       <root>
         <mxCell id="7phoqUuD6ylPx7bReSVy-0" />
         <mxCell id="7phoqUuD6ylPx7bReSVy-1" parent="7phoqUuD6ylPx7bReSVy-0" />
@@ -797,11 +797,6 @@
           <mxGeometry x="-325.5" y="344" width="100" height="100" as="geometry">
             <mxPoint x="424.5" y="444" as="sourcePoint" />
             <mxPoint x="425" y="543" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7phoqUuD6ylPx7bReSVy-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;strokeColor=#23445D;entryX=0.482;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="7phoqUuD6ylPx7bReSVy-1" source="7phoqUuD6ylPx7bReSVy-5" target="7phoqUuD6ylPx7bReSVy-115">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1650" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7phoqUuD6ylPx7bReSVy-5" value="Rohan Dewan&#xa;Super Admin" style="rounded=1;fillColor=#08384D;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;verticalAlign=middle;" vertex="1" parent="7phoqUuD6ylPx7bReSVy-1">
@@ -1106,33 +1101,6 @@
             <mxPoint x="898" y="755" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7phoqUuD6ylPx7bReSVy-70" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;exitX=0.5;exitY=1;exitDx=0;exitDy=0;verticalAlign=middle;entryX=0.521;entryY=-0.054;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="7phoqUuD6ylPx7bReSVy-1" target="7phoqUuD6ylPx7bReSVy-74">
-          <mxGeometry x="344" y="842.5" width="100" height="100" as="geometry">
-            <mxPoint x="1095" y="1051.5" as="sourcePoint" />
-            <mxPoint x="910" y="1132.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7phoqUuD6ylPx7bReSVy-71" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;verticalAlign=middle;" edge="1" parent="7phoqUuD6ylPx7bReSVy-1" target="7phoqUuD6ylPx7bReSVy-94">
-          <mxGeometry x="345" y="816.5" width="100" height="100" as="geometry">
-            <mxPoint x="1095" y="1056.5" as="sourcePoint" />
-            <mxPoint x="1280" y="1131.5" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1180" y="1091.5" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7phoqUuD6ylPx7bReSVy-72" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;verticalAlign=middle;" edge="1" parent="7phoqUuD6ylPx7bReSVy-1" target="7phoqUuD6ylPx7bReSVy-85">
-          <mxGeometry x="344.71000000000004" y="951.5" width="100" height="100" as="geometry">
-            <mxPoint x="1094.71" y="1051.5" as="sourcePoint" />
-            <mxPoint x="1094.71" y="1131.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7phoqUuD6ylPx7bReSVy-73" value="Vijay Kumar&#xa;Agent" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;aspect=fixed;verticalAlign=middle;" vertex="1" parent="7phoqUuD6ylPx7bReSVy-1">
-          <mxGeometry x="634" y="1289.5" width="150" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="7phoqUuD6ylPx7bReSVy-74" value="Alok Negi&#xa;TL Troubleshoot" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;verticalAlign=middle;" vertex="1" parent="7phoqUuD6ylPx7bReSVy-1">
-          <mxGeometry x="718" y="1131.5" width="150" height="45" as="geometry" />
-        </mxCell>
         <mxCell id="7phoqUuD6ylPx7bReSVy-75" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;verticalAlign=middle;" edge="1" parent="7phoqUuD6ylPx7bReSVy-1" source="7phoqUuD6ylPx7bReSVy-5" target="7phoqUuD6ylPx7bReSVy-76">
           <mxGeometry x="1938" y="235" width="100" height="100" as="geometry">
             <mxPoint x="1090" y="428" as="sourcePoint" />
@@ -1144,184 +1112,53 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7phoqUuD6ylPx7bReSVy-76" value="Soniya Khare&#xa;Manager Operation" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;verticalAlign=middle;" vertex="1" parent="7phoqUuD6ylPx7bReSVy-1">
+        <mxCell id="7phoqUuD6ylPx7bReSVy-76" value="Hemlata Joshi&#xa;Manager Operation" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;verticalAlign=middle;" vertex="1" parent="7phoqUuD6ylPx7bReSVy-1">
           <mxGeometry x="1020.9999999999995" y="1003" width="150" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="7phoqUuD6ylPx7bReSVy-77" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;entryX=0.518;entryY=-0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="7phoqUuD6ylPx7bReSVy-1" target="7phoqUuD6ylPx7bReSVy-73">
-          <mxGeometry x="-74" y="426.50000000000045" width="100" height="100" as="geometry">
-            <mxPoint x="796" y="1176.5" as="sourcePoint" />
-            <mxPoint x="796" y="1206.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7phoqUuD6ylPx7bReSVy-78" value="Vikas Dhall&#xa;Agent" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;aspect=fixed;verticalAlign=middle;" vertex="1" parent="7phoqUuD6ylPx7bReSVy-1">
-          <mxGeometry x="550" y="1224.5" width="150" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="7phoqUuD6ylPx7bReSVy-79" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;entryX=0.521;entryY=0.027;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="7phoqUuD6ylPx7bReSVy-1" target="7phoqUuD6ylPx7bReSVy-78">
-          <mxGeometry x="-239" y="426.50000000000045" width="100" height="100" as="geometry">
-            <mxPoint x="796" y="1176.5" as="sourcePoint" />
-            <mxPoint x="630.7" y="1212.275" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7phoqUuD6ylPx7bReSVy-80" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" edge="1" parent="7phoqUuD6ylPx7bReSVy-1" target="7phoqUuD6ylPx7bReSVy-81">
-          <mxGeometry x="-119" y="426.50000000000045" width="100" height="100" as="geometry">
-            <mxPoint x="795" y="1176.5" as="sourcePoint" />
-            <mxPoint x="947" y="1242.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7phoqUuD6ylPx7bReSVy-81" value="Sukhdeep Singh&#xa;Agent" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;aspect=fixed;verticalAlign=middle;" vertex="1" parent="7phoqUuD6ylPx7bReSVy-1">
-          <mxGeometry x="886" y="1224.5" width="150" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="7phoqUuD6ylPx7bReSVy-82" value="Jasmeet Singh&#xa;Agent " style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;aspect=fixed;verticalAlign=middle;" vertex="1" parent="7phoqUuD6ylPx7bReSVy-1">
-          <mxGeometry x="796" y="1288.5" width="150" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="7phoqUuD6ylPx7bReSVy-83" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;entryX=0.518;entryY=-0.005;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.513;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="7phoqUuD6ylPx7bReSVy-1" target="7phoqUuD6ylPx7bReSVy-82">
-          <mxGeometry x="96" y="426.50000000000045" width="100" height="100" as="geometry">
-            <mxPoint x="795.9499999999998" y="1176.5" as="sourcePoint" />
-            <mxPoint x="966" y="1206.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7phoqUuD6ylPx7bReSVy-84" value="Ajay Dev&#xa;Agent" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;aspect=fixed;verticalAlign=middle;" vertex="1" parent="7phoqUuD6ylPx7bReSVy-1">
-          <mxGeometry x="936" y="1520.5" width="150" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="7phoqUuD6ylPx7bReSVy-85" value="Nandita Rai&#xa;TL Data" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;verticalAlign=middle;" vertex="1" parent="7phoqUuD6ylPx7bReSVy-1">
-          <mxGeometry x="1020" y="1362.5" width="150" height="45" as="geometry" />
+        <mxCell id="7phoqUuD6ylPx7bReSVy-84" value="Ram Avtar&#xa;Agent" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;aspect=fixed;verticalAlign=middle;" vertex="1" parent="7phoqUuD6ylPx7bReSVy-1">
+          <mxGeometry x="934" y="1161" width="150" height="45" as="geometry" />
         </mxCell>
         <mxCell id="7phoqUuD6ylPx7bReSVy-86" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;entryX=0.518;entryY=-0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="7phoqUuD6ylPx7bReSVy-1" target="7phoqUuD6ylPx7bReSVy-84">
-          <mxGeometry x="228" y="657.5000000000005" width="100" height="100" as="geometry">
-            <mxPoint x="1097.9999999999995" y="1407.5" as="sourcePoint" />
-            <mxPoint x="1098" y="1437.5" as="targetPoint" />
+          <mxGeometry x="226" y="298.00000000000045" width="100" height="100" as="geometry">
+            <mxPoint x="1095.9999999999995" y="1048" as="sourcePoint" />
+            <mxPoint x="1096" y="1078" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7phoqUuD6ylPx7bReSVy-87" value="Radhika&#xa;Agent" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;aspect=fixed;verticalAlign=middle;" vertex="1" parent="7phoqUuD6ylPx7bReSVy-1">
-          <mxGeometry x="852" y="1455.5" width="150" height="45" as="geometry" />
+        <mxCell id="7phoqUuD6ylPx7bReSVy-87" value="Suchita Das&#xa;Agent" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;aspect=fixed;verticalAlign=middle;" vertex="1" parent="7phoqUuD6ylPx7bReSVy-1">
+          <mxGeometry x="850" y="1096" width="150" height="45" as="geometry" />
         </mxCell>
         <mxCell id="7phoqUuD6ylPx7bReSVy-88" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;entryX=0.521;entryY=0.027;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="7phoqUuD6ylPx7bReSVy-1" target="7phoqUuD6ylPx7bReSVy-87">
-          <mxGeometry x="63" y="657.5000000000005" width="100" height="100" as="geometry">
-            <mxPoint x="1097.9999999999995" y="1407.5" as="sourcePoint" />
-            <mxPoint x="932.7" y="1443.275" as="targetPoint" />
+          <mxGeometry x="61" y="298.00000000000045" width="100" height="100" as="geometry">
+            <mxPoint x="1095.9999999999995" y="1048" as="sourcePoint" />
+            <mxPoint x="930.7" y="1083.775" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7phoqUuD6ylPx7bReSVy-89" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" edge="1" parent="7phoqUuD6ylPx7bReSVy-1" target="7phoqUuD6ylPx7bReSVy-90">
-          <mxGeometry x="183" y="657.5000000000005" width="100" height="100" as="geometry">
-            <mxPoint x="1097" y="1407.5" as="sourcePoint" />
-            <mxPoint x="1249" y="1473.5" as="targetPoint" />
+          <mxGeometry x="181" y="298.00000000000045" width="100" height="100" as="geometry">
+            <mxPoint x="1095" y="1048" as="sourcePoint" />
+            <mxPoint x="1247" y="1114" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7phoqUuD6ylPx7bReSVy-90" value="Neetu Priya&#xa;Agent" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;aspect=fixed;verticalAlign=middle;" vertex="1" parent="7phoqUuD6ylPx7bReSVy-1">
-          <mxGeometry x="1188" y="1455.5" width="150" height="45" as="geometry" />
+        <mxCell id="7phoqUuD6ylPx7bReSVy-90" value="Rajdeep Singh&#xa;Agent" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;aspect=fixed;verticalAlign=middle;" vertex="1" parent="7phoqUuD6ylPx7bReSVy-1">
+          <mxGeometry x="1186" y="1096" width="150" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="7phoqUuD6ylPx7bReSVy-91" value="Neha Arora&#xa;Agent" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;aspect=fixed;verticalAlign=middle;" vertex="1" parent="7phoqUuD6ylPx7bReSVy-1">
-          <mxGeometry x="1098" y="1519.5" width="150" height="45" as="geometry" />
+        <mxCell id="7phoqUuD6ylPx7bReSVy-91" value="Gurjot Singh&#xa;Agent" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;aspect=fixed;verticalAlign=middle;" vertex="1" parent="7phoqUuD6ylPx7bReSVy-1">
+          <mxGeometry x="1096" y="1160" width="150" height="45" as="geometry" />
         </mxCell>
         <mxCell id="7phoqUuD6ylPx7bReSVy-92" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;entryX=0.518;entryY=-0.005;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.513;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="7phoqUuD6ylPx7bReSVy-1" target="7phoqUuD6ylPx7bReSVy-91">
-          <mxGeometry x="398" y="657.5000000000005" width="100" height="100" as="geometry">
-            <mxPoint x="1097.9500000000003" y="1407.5" as="sourcePoint" />
-            <mxPoint x="1268" y="1437.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7phoqUuD6ylPx7bReSVy-93" value="Om Singh&#xa;Agent" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;aspect=fixed;verticalAlign=middle;" vertex="1" parent="7phoqUuD6ylPx7bReSVy-1">
-          <mxGeometry x="1237" y="1289.5" width="150" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="7phoqUuD6ylPx7bReSVy-94" value="Santosh Balia&#xa;TL Network" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;verticalAlign=middle;" vertex="1" parent="7phoqUuD6ylPx7bReSVy-1">
-          <mxGeometry x="1321" y="1131.5" width="150" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="7phoqUuD6ylPx7bReSVy-95" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;entryX=0.518;entryY=-0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="7phoqUuD6ylPx7bReSVy-1" target="7phoqUuD6ylPx7bReSVy-93">
-          <mxGeometry x="529" y="426.50000000000045" width="100" height="100" as="geometry">
-            <mxPoint x="1399.0000000000005" y="1176.5" as="sourcePoint" />
-            <mxPoint x="1399" y="1206.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7phoqUuD6ylPx7bReSVy-96" value="Zainab Hameed&#xa;Agent" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;aspect=fixed;verticalAlign=middle;" vertex="1" parent="7phoqUuD6ylPx7bReSVy-1">
-          <mxGeometry x="1153" y="1224.5" width="150" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="7phoqUuD6ylPx7bReSVy-97" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;entryX=0.521;entryY=0.027;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="7phoqUuD6ylPx7bReSVy-1" target="7phoqUuD6ylPx7bReSVy-96">
-          <mxGeometry x="364" y="426.50000000000045" width="100" height="100" as="geometry">
-            <mxPoint x="1399.0000000000005" y="1176.5" as="sourcePoint" />
-            <mxPoint x="1233.7" y="1212.275" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7phoqUuD6ylPx7bReSVy-98" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" edge="1" parent="7phoqUuD6ylPx7bReSVy-1" target="7phoqUuD6ylPx7bReSVy-99">
-          <mxGeometry x="484" y="426.50000000000045" width="100" height="100" as="geometry">
-            <mxPoint x="1397.9999999999995" y="1176.5" as="sourcePoint" />
-            <mxPoint x="1550" y="1242.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7phoqUuD6ylPx7bReSVy-99" value="Mohit Jain&#xa;Agent" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;aspect=fixed;verticalAlign=middle;" vertex="1" parent="7phoqUuD6ylPx7bReSVy-1">
-          <mxGeometry x="1489" y="1224.5" width="150" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="7phoqUuD6ylPx7bReSVy-100" value="Rakesh Yadav&#xa;Agent" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;aspect=fixed;verticalAlign=middle;" vertex="1" parent="7phoqUuD6ylPx7bReSVy-1">
-          <mxGeometry x="1399" y="1288.5" width="150" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="7phoqUuD6ylPx7bReSVy-101" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;entryX=0.518;entryY=-0.005;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.513;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="7phoqUuD6ylPx7bReSVy-1" target="7phoqUuD6ylPx7bReSVy-100">
-          <mxGeometry x="699" y="426.50000000000045" width="100" height="100" as="geometry">
-            <mxPoint x="1398.9499999999998" y="1176.5" as="sourcePoint" />
-            <mxPoint x="1569" y="1206.5" as="targetPoint" />
+          <mxGeometry x="396" y="298.00000000000045" width="100" height="100" as="geometry">
+            <mxPoint x="1095.9500000000003" y="1048" as="sourcePoint" />
+            <mxPoint x="1266" y="1078" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7phoqUuD6ylPx7bReSVy-102" value="" style="group" vertex="1" connectable="0" parent="7phoqUuD6ylPx7bReSVy-1">
-          <mxGeometry x="-900" y="51" width="2880" height="113" as="geometry" />
+          <mxGeometry x="-900" y="51" width="2260" height="113" as="geometry" />
         </mxCell>
         <mxCell id="7phoqUuD6ylPx7bReSVy-103" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;strokeColor=#666666;fillColor=#004C99;fontSize=18;fontColor=#FCFCFC;" vertex="1" parent="7phoqUuD6ylPx7bReSVy-102">
-          <mxGeometry width="2879.9999999999995" height="113" as="geometry" />
+          <mxGeometry width="2259.9999999999995" height="113" as="geometry" />
         </mxCell>
         <mxCell id="7phoqUuD6ylPx7bReSVy-104" value="&lt;div&gt;Metro Teleproducts Pvt. Ltd. Hierarchy&lt;/div&gt;" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=40;fontColor=#FFFFFF;fontStyle=1;horizontal=1;shadow=0;labelBorderColor=none;labelBackgroundColor=none;spacingTop=0;html=1;" vertex="1" parent="7phoqUuD6ylPx7bReSVy-1">
           <mxGeometry x="19.999999999999943" y="82.5" width="750" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="7phoqUuD6ylPx7bReSVy-105" value="Abhilasha Singh&#xa;Author" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;aspect=fixed;verticalAlign=middle;" vertex="1" parent="7phoqUuD6ylPx7bReSVy-1">
-          <mxGeometry x="1484" y="789.5" width="150" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="7phoqUuD6ylPx7bReSVy-106" value="John Fedrick&#xa;TL" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;verticalAlign=middle;" vertex="1" parent="7phoqUuD6ylPx7bReSVy-1">
-          <mxGeometry x="1568" y="631.5" width="150" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="7phoqUuD6ylPx7bReSVy-107" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;entryX=0.518;entryY=-0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="7phoqUuD6ylPx7bReSVy-1" target="7phoqUuD6ylPx7bReSVy-105">
-          <mxGeometry x="776" y="-73.49999999999955" width="100" height="100" as="geometry">
-            <mxPoint x="1645.9999999999995" y="676.5" as="sourcePoint" />
-            <mxPoint x="1646" y="706.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7phoqUuD6ylPx7bReSVy-108" value="Shreya Mathur&#xa;Author" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;aspect=fixed;verticalAlign=middle;" vertex="1" parent="7phoqUuD6ylPx7bReSVy-1">
-          <mxGeometry x="1400" y="724.5" width="150" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="7phoqUuD6ylPx7bReSVy-109" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;entryX=0.521;entryY=0.027;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="7phoqUuD6ylPx7bReSVy-1" target="7phoqUuD6ylPx7bReSVy-108">
-          <mxGeometry x="611" y="-73.49999999999955" width="100" height="100" as="geometry">
-            <mxPoint x="1645.9999999999995" y="676.5" as="sourcePoint" />
-            <mxPoint x="1480.7" y="712.2750000000001" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7phoqUuD6ylPx7bReSVy-110" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" edge="1" parent="7phoqUuD6ylPx7bReSVy-1" target="7phoqUuD6ylPx7bReSVy-111">
-          <mxGeometry x="731" y="-73.49999999999955" width="100" height="100" as="geometry">
-            <mxPoint x="1645" y="676.5" as="sourcePoint" />
-            <mxPoint x="1797" y="742.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7phoqUuD6ylPx7bReSVy-111" value="Suman Negi &#xa;Author" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;aspect=fixed;verticalAlign=middle;" vertex="1" parent="7phoqUuD6ylPx7bReSVy-1">
-          <mxGeometry x="1736" y="724.5" width="150" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="7phoqUuD6ylPx7bReSVy-112" value="Smeeta Jain&#xa;Author" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;aspect=fixed;verticalAlign=middle;" vertex="1" parent="7phoqUuD6ylPx7bReSVy-1">
-          <mxGeometry x="1646" y="788.5" width="150" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="7phoqUuD6ylPx7bReSVy-113" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;entryX=0.518;entryY=-0.005;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.513;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="7phoqUuD6ylPx7bReSVy-1" target="7phoqUuD6ylPx7bReSVy-112">
-          <mxGeometry x="946" y="-73.49999999999955" width="100" height="100" as="geometry">
-            <mxPoint x="1645.9499999999998" y="676.5" as="sourcePoint" />
-            <mxPoint x="1816" y="706.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7phoqUuD6ylPx7bReSVy-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;strokeWidth=4;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="7phoqUuD6ylPx7bReSVy-1" source="7phoqUuD6ylPx7bReSVy-115" target="7phoqUuD6ylPx7bReSVy-106">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1643" y="621.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7phoqUuD6ylPx7bReSVy-115" value="Jai Singh&#xa;Content Management" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;verticalAlign=middle;" vertex="1" parent="7phoqUuD6ylPx7bReSVy-1">
-          <mxGeometry x="1558" y="551.5" width="170" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="7phoqUuD6ylPx7bReSVy-116" value="" style="html=1;strokeColor=#23445D;strokeWidth=4;dashed=1;startArrow=none;startFill=0;endArrow=none;endFill=0;entryX=0.001;entryY=0.479;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="7phoqUuD6ylPx7bReSVy-1" target="7phoqUuD6ylPx7bReSVy-117">
-          <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="1600" y="414.16999999999996" as="sourcePoint" />
-            <mxPoint x="1780" y="414" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7phoqUuD6ylPx7bReSVy-117" value="Yogesh Rawat&#xa;HOD" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;verticalAlign=middle;" vertex="1" parent="7phoqUuD6ylPx7bReSVy-1">
-          <mxGeometry x="1796" y="392.5" width="150" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
