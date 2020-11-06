@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-06T08:54:57.606Z" agent="5.0 (Windows)" etag="NAtQ5MkMwfyUePgvk_UM" version="13.9.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2020-11-06T09:19:41.620Z" agent="5.0 (Windows)" etag="4-dCGmLOXozFPrir6yyt" version="13.9.2" type="github" pages="8">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1447" dy="1934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -245,7 +245,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-O00j1tQZ1MpL5goMb2f" name="Metro Teleproducts Pvt. Ltd. Hierarchy">
-    <mxGraphModel dx="1744" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100" pageHeight="200" background="none" math="0" shadow="1">
+    <mxGraphModel dx="3994" dy="1483" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100" pageHeight="200" background="none" math="0" shadow="1">
       <root>
         <mxCell id="Ld5y9Fo_SOwqp39tFzAJ-0" />
         <mxCell id="Ld5y9Fo_SOwqp39tFzAJ-1" parent="Ld5y9Fo_SOwqp39tFzAJ-0" />
@@ -262,6 +262,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1650" y="530" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="0dQHdY5B3UCdXk7p-nOU-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#23445D;strokeWidth=4;" edge="1" parent="Ld5y9Fo_SOwqp39tFzAJ-1" source="z637HSTa_vEVJ37j_fF9-3" target="0dQHdY5B3UCdXk7p-nOU-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="z637HSTa_vEVJ37j_fF9-3" value="Avinash Singh&#xa;Super Admin" style="rounded=1;fillColor=#08384D;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;verticalAlign=middle;" parent="Ld5y9Fo_SOwqp39tFzAJ-1" vertex="1">
           <mxGeometry x="315" y="384" width="220" height="60" as="geometry" />
@@ -770,8 +773,8 @@
             <mxPoint x="1643" y="621.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4uQCeOlfSEFfpK7T84qv-12" value="Jai Singh&#xa;Content Management" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;verticalAlign=middle;" vertex="1" parent="Ld5y9Fo_SOwqp39tFzAJ-1">
-          <mxGeometry x="1558" y="551.5" width="170" height="45" as="geometry" />
+        <mxCell id="4uQCeOlfSEFfpK7T84qv-12" value="Jai Singh&#xa;Manager Content Management" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;verticalAlign=middle;" vertex="1" parent="Ld5y9Fo_SOwqp39tFzAJ-1">
+          <mxGeometry x="1522" y="551.5" width="242" height="45" as="geometry" />
         </mxCell>
         <mxCell id="4uQCeOlfSEFfpK7T84qv-15" value="" style="html=1;strokeColor=#23445D;strokeWidth=4;dashed=1;startArrow=none;startFill=0;endArrow=none;endFill=0;entryX=0.001;entryY=0.479;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Ld5y9Fo_SOwqp39tFzAJ-1" target="4uQCeOlfSEFfpK7T84qv-16">
           <mxGeometry width="100" relative="1" as="geometry">
@@ -782,11 +785,58 @@
         <mxCell id="4uQCeOlfSEFfpK7T84qv-16" value="Yogesh Rawat&#xa;HOD" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;verticalAlign=middle;" vertex="1" parent="Ld5y9Fo_SOwqp39tFzAJ-1">
           <mxGeometry x="1796" y="392.5" width="150" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="0dQHdY5B3UCdXk7p-nOU-0" value="Rohit Yadav&#xa;Author" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;aspect=fixed;verticalAlign=middle;" vertex="1" parent="Ld5y9Fo_SOwqp39tFzAJ-1">
+          <mxGeometry x="-956" y="789.5" width="150" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="0dQHdY5B3UCdXk7p-nOU-1" value="Amrit Pandey&#xa;TL" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;verticalAlign=middle;" vertex="1" parent="Ld5y9Fo_SOwqp39tFzAJ-1">
+          <mxGeometry x="-872" y="631.5" width="150" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="0dQHdY5B3UCdXk7p-nOU-2" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;entryX=0.518;entryY=-0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Ld5y9Fo_SOwqp39tFzAJ-1" target="0dQHdY5B3UCdXk7p-nOU-0">
+          <mxGeometry x="-1664" y="-73.49999999999955" width="100" height="100" as="geometry">
+            <mxPoint x="-794" y="676.5" as="sourcePoint" />
+            <mxPoint x="-794" y="706.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0dQHdY5B3UCdXk7p-nOU-3" value="Ankita Jain&#xa;Author" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;aspect=fixed;verticalAlign=middle;" vertex="1" parent="Ld5y9Fo_SOwqp39tFzAJ-1">
+          <mxGeometry x="-1040" y="724.5" width="150" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="0dQHdY5B3UCdXk7p-nOU-4" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;entryX=0.521;entryY=0.027;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Ld5y9Fo_SOwqp39tFzAJ-1" target="0dQHdY5B3UCdXk7p-nOU-3">
+          <mxGeometry x="-1829" y="-73.49999999999955" width="100" height="100" as="geometry">
+            <mxPoint x="-794" y="676.5" as="sourcePoint" />
+            <mxPoint x="-959.3" y="712.2750000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0dQHdY5B3UCdXk7p-nOU-5" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" edge="1" parent="Ld5y9Fo_SOwqp39tFzAJ-1" target="0dQHdY5B3UCdXk7p-nOU-6">
+          <mxGeometry x="-1709" y="-73.49999999999955" width="100" height="100" as="geometry">
+            <mxPoint x="-795" y="676.5" as="sourcePoint" />
+            <mxPoint x="-643" y="742.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0dQHdY5B3UCdXk7p-nOU-6" value="Rajat Garg&#xa;Author" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;aspect=fixed;verticalAlign=middle;" vertex="1" parent="Ld5y9Fo_SOwqp39tFzAJ-1">
+          <mxGeometry x="-704" y="724.5" width="150" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="0dQHdY5B3UCdXk7p-nOU-7" value="Shikhar&#xa;Author" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;aspect=fixed;verticalAlign=middle;" vertex="1" parent="Ld5y9Fo_SOwqp39tFzAJ-1">
+          <mxGeometry x="-794" y="788.5" width="150" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="0dQHdY5B3UCdXk7p-nOU-8" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;entryX=0.518;entryY=-0.005;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.513;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="Ld5y9Fo_SOwqp39tFzAJ-1" target="0dQHdY5B3UCdXk7p-nOU-7">
+          <mxGeometry x="-1494" y="-73.49999999999955" width="100" height="100" as="geometry">
+            <mxPoint x="-794.0500000000002" y="676.5" as="sourcePoint" />
+            <mxPoint x="-624" y="706.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0dQHdY5B3UCdXk7p-nOU-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;strokeWidth=4;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Ld5y9Fo_SOwqp39tFzAJ-1" source="0dQHdY5B3UCdXk7p-nOU-10" target="0dQHdY5B3UCdXk7p-nOU-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-797" y="621.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0dQHdY5B3UCdXk7p-nOU-10" value="Subash Gosh&#xa;Manager Audit/ Quality" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;verticalAlign=middle;" vertex="1" parent="Ld5y9Fo_SOwqp39tFzAJ-1">
+          <mxGeometry x="-882" y="551.5" width="170" height="45" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="Belle Pvt. Ltd. Hierarchy" id="v0pmprgsQ0tk93WfL4Hl">
-    <mxGraphModel dx="4952" dy="2076" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100" pageHeight="200" background="none" math="0" shadow="1">
+    <mxGraphModel dx="4277" dy="1730" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100" pageHeight="200" background="none" math="0" shadow="1">
       <root>
         <mxCell id="7phoqUuD6ylPx7bReSVy-0" />
         <mxCell id="7phoqUuD6ylPx7bReSVy-1" parent="7phoqUuD6ylPx7bReSVy-0" />
@@ -1152,10 +1202,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7phoqUuD6ylPx7bReSVy-102" value="" style="group" vertex="1" connectable="0" parent="7phoqUuD6ylPx7bReSVy-1">
-          <mxGeometry x="-900" y="51" width="2260" height="113" as="geometry" />
+          <mxGeometry x="-900" y="51" width="2300" height="113" as="geometry" />
         </mxCell>
         <mxCell id="7phoqUuD6ylPx7bReSVy-103" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;strokeColor=#666666;fillColor=#004C99;fontSize=18;fontColor=#FCFCFC;" vertex="1" parent="7phoqUuD6ylPx7bReSVy-102">
-          <mxGeometry width="2259.9999999999995" height="113" as="geometry" />
+          <mxGeometry width="2299.9999999999995" height="113" as="geometry" />
         </mxCell>
         <mxCell id="7phoqUuD6ylPx7bReSVy-104" value="&lt;div&gt;Metro Teleproducts Pvt. Ltd. Hierarchy&lt;/div&gt;" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=40;fontColor=#FFFFFF;fontStyle=1;horizontal=1;shadow=0;labelBorderColor=none;labelBackgroundColor=none;spacingTop=0;html=1;" vertex="1" parent="7phoqUuD6ylPx7bReSVy-1">
           <mxGeometry x="19.999999999999943" y="82.5" width="750" height="50" as="geometry" />
