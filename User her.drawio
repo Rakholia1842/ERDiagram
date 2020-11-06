@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-06T08:45:19.009Z" agent="5.0 (Windows)" etag="6U0HuGSW9taP4tVTh6fQ" version="13.9.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2020-11-06T08:46:46.785Z" agent="5.0 (Windows)" etag="RbXGXnoy5MmXxpHuUMPB" version="13.9.2" type="github" pages="8">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1447" dy="1934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -926,11 +926,11 @@
             <mxPoint x="-110" y="1438.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7phoqUuD6ylPx7bReSVy-30" value="Madhukar Arya&#xa;Agent" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;aspect=fixed;verticalAlign=middle;" vertex="1" parent="7phoqUuD6ylPx7bReSVy-1">
+        <mxCell id="7phoqUuD6ylPx7bReSVy-30" value="Madhu Rawat&#xa;Agent" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;aspect=fixed;verticalAlign=middle;" vertex="1" parent="7phoqUuD6ylPx7bReSVy-1">
           <mxGeometry x="-141" y="1290.5" width="150" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="7phoqUuD6ylPx7bReSVy-31" value="Ajeet Sharma&#xa;TL Retention" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;verticalAlign=middle;" vertex="1" parent="7phoqUuD6ylPx7bReSVy-1">
-          <mxGeometry x="-57" y="1132.5" width="150" height="45" as="geometry" />
+        <mxCell id="7phoqUuD6ylPx7bReSVy-31" value="Mohit Kashyap&#xa;TL Partner Programme" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;verticalAlign=middle;" vertex="1" parent="7phoqUuD6ylPx7bReSVy-1">
+          <mxGeometry x="-73" y="1132.5" width="187" height="45" as="geometry" />
         </mxCell>
         <mxCell id="7phoqUuD6ylPx7bReSVy-32" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;entryX=0.518;entryY=-0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="7phoqUuD6ylPx7bReSVy-1" target="7phoqUuD6ylPx7bReSVy-30">
           <mxGeometry x="-849" y="427.50000000000045" width="100" height="100" as="geometry">
@@ -938,7 +938,7 @@
             <mxPoint x="21" y="1207.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7phoqUuD6ylPx7bReSVy-33" value="Priti Malakar&#xa;Agent" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;aspect=fixed;verticalAlign=middle;" vertex="1" parent="7phoqUuD6ylPx7bReSVy-1">
+        <mxCell id="7phoqUuD6ylPx7bReSVy-33" value="Mona Singh&#xa;Agent" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;aspect=fixed;verticalAlign=middle;" vertex="1" parent="7phoqUuD6ylPx7bReSVy-1">
           <mxGeometry x="-225" y="1225.5" width="150" height="45" as="geometry" />
         </mxCell>
         <mxCell id="7phoqUuD6ylPx7bReSVy-34" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;entryX=0.521;entryY=0.027;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="7phoqUuD6ylPx7bReSVy-1" target="7phoqUuD6ylPx7bReSVy-33">
@@ -953,10 +953,10 @@
             <mxPoint x="172" y="1243.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7phoqUuD6ylPx7bReSVy-36" value="Dilpreet Singh&#xa;Agent" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;aspect=fixed;verticalAlign=middle;" vertex="1" parent="7phoqUuD6ylPx7bReSVy-1">
+        <mxCell id="7phoqUuD6ylPx7bReSVy-36" value="Daya Shankar&#xa;Agent" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;aspect=fixed;verticalAlign=middle;" vertex="1" parent="7phoqUuD6ylPx7bReSVy-1">
           <mxGeometry x="111" y="1225.5" width="150" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="7phoqUuD6ylPx7bReSVy-37" value="Vikram Singh&#xa;Agent" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;aspect=fixed;verticalAlign=middle;" vertex="1" parent="7phoqUuD6ylPx7bReSVy-1">
+        <mxCell id="7phoqUuD6ylPx7bReSVy-37" value="Vikram negi&#xa;Agent" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=0;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;aspect=fixed;verticalAlign=middle;" vertex="1" parent="7phoqUuD6ylPx7bReSVy-1">
           <mxGeometry x="21" y="1289.5" width="150" height="45" as="geometry" />
         </mxCell>
         <mxCell id="7phoqUuD6ylPx7bReSVy-38" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;entryX=0.518;entryY=-0.005;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.513;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="7phoqUuD6ylPx7bReSVy-1" target="7phoqUuD6ylPx7bReSVy-37">
