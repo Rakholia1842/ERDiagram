@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-11-09T04:58:24.019Z" agent="5.0 (Windows)" etag="x5vloKeqBIgZvLuQdu2v" version="13.0.1" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2020-11-09T07:11:33.848Z" agent="5.0 (Windows)" etag="PGqnXFgtWYNOcZMnsdot" version="13.0.1" type="github" pages="2">
   <diagram id="-O00j1tQZ1MpL5goMb2f" name="Metro Teleproducts Pvt. Ltd. Hierarchy">
-    <mxGraphModel dx="4655" dy="1863" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100" pageHeight="200" background="none" math="0" shadow="1">
+    <mxGraphModel dx="5209" dy="1863" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
         <mxCell id="Ld5y9Fo_SOwqp39tFzAJ-0" />
         <mxCell id="Ld5y9Fo_SOwqp39tFzAJ-1" parent="Ld5y9Fo_SOwqp39tFzAJ-0" />
@@ -442,10 +442,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="W5pfQOdYKzBgruQwtrAK-0" value="" style="group" parent="Ld5y9Fo_SOwqp39tFzAJ-1" vertex="1" connectable="0">
-          <mxGeometry x="-900" y="51" width="2890" height="113" as="geometry" />
+          <mxGeometry x="-1100" y="51" width="3090" height="113" as="geometry" />
         </mxCell>
         <mxCell id="JM0mI9Wo3sELhNkSNja4-24" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;strokeColor=#666666;fillColor=#004C99;fontSize=18;fontColor=#FCFCFC;" parent="W5pfQOdYKzBgruQwtrAK-0" vertex="1">
-          <mxGeometry width="2890" height="113" as="geometry" />
+          <mxGeometry width="3090" height="113" as="geometry" />
         </mxCell>
         <mxCell id="JM0mI9Wo3sELhNkSNja4-30" value="&lt;div&gt;Metro Teleproducts Pvt. Ltd. Hierarchy&lt;/div&gt;" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=40;fontColor=#FFFFFF;fontStyle=1;horizontal=1;shadow=0;labelBorderColor=none;labelBackgroundColor=none;spacingTop=0;html=1;" parent="Ld5y9Fo_SOwqp39tFzAJ-1" vertex="1">
           <mxGeometry x="169.99999999999994" y="82.5" width="750" height="50" as="geometry" />
